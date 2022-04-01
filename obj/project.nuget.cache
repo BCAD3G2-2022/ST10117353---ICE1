@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qpaxlQ9Xgg8zzLFtfipeP8wd4X9dmBgjfZs/L2qDCJ3pwpBMEplcSpnYHKV7e+PumTmUYohT0RCJl1+LMoWHPQ==",
+  "success": true,
+  "projectFilePath": "E:\\Studies\\Varsity College\\Year 3\\Semester 1\\PROG7311 - Programming 3A\\Class Projects\\3 - Burger and Cooldrink API\\BurgerCooldrinkAPI\\BurgerCooldrinkAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\kesha_wiv2fr0\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
